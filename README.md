@@ -10,19 +10,13 @@ https://firebase.google.com/docs/flutter/setup?platform=ios
 # Visuals
 
 
-x-special/nautilus-clipboard
-copy
-file:///home/shahbaz/Downloads/1.png
+
 ![1](https://user-images.githubusercontent.com/64207802/127527043-b6b900b6-98e8-4669-987e-16a98aa2f9b0.png)
 
 
-x-special/nautilus-clipboard
-copy
-file:///home/shahbaz/Downloads/2.png
+
 ![2](https://user-images.githubusercontent.com/64207802/127527087-c7190699-221e-41e7-aa88-295efb8c28e0.png)
 
 
-x-special/nautilus-clipboard
-copy
-file:///home/shahbaz/Downloads/3.png
+
 ![3](https://user-images.githubusercontent.com/64207802/127527122-fe782737-4354-4c38-89c6-9ae8aaac5523.png)
