@@ -9,6 +9,7 @@ https://firebase.google.com/docs/flutter/setup?platform=ios
 
 # Visuals
 
+![Mockup (1)](https://user-images.githubusercontent.com/64207802/127617956-451b7632-e6ce-4078-9705-498467e1566a.png)
 
 
 ![1](https://user-images.githubusercontent.com/64207802/127527043-b6b900b6-98e8-4669-987e-16a98aa2f9b0.png)
